@@ -1,35 +1,100 @@
-<h1 align="center">Hi 👋, I'm Osama Raddad</h1>
-<h3 align="center">Android Team Lead in Sweden</h3>
+<div align="center">
+  
+# Osama Raddad
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=osama-raddad&label=Profile%20views&color=0e75b6&style=flat-square" alt="osama-raddad" /> </p>
+### Senior Android Automotive Engineer & Team Lead | Crafting Excellence in Mobile & Automotive Solutions
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osama-raddad" alt="osama-raddad" /></a> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=osama-raddad&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/osama-raddad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/osamaraddad)
+[![Medium](https://img.shields.io/badge/Medium-Follow-black?style=flat-square&logo=medium)](https://medium.com/@osamaraddad)
 
-- 🔭 I’m currently working at [Navico R&D](https://navico.com/)
+</div>
 
-- 👯 I’m looking to collaborate on [Warehouse](https://github.com/osama-raddad/Warehouse)
+## 🚀 Professional Overview
 
-- 👨‍💻 All of my projects are available at [https://github.com/osama-raddad](https://github.com/osama-raddad)
+Passionate Android Engineer with extensive experience in automotive and mobile development. Currently leading Android Automotive initiatives at Volvo Trucks, focusing on innovative solutions that bridge the gap between mobile technology and automotive systems.
 
-- 📝 I regularly write articles on [https://medium.com/@osamaraddad](https://medium.com/@osamaraddad)
+### 🛠️ Notable Open Source Contributions
 
-- 💬 Ask me about **Android, Software Architecture,Team Leading**
+<table>
+<tr>
+<td>
+  
+#### [Warehouse](https://github.com/osama-raddad/Warehouse)
+A lightweight Kotlin DSL for elegant dependency injection, designed for simplicity and performance.
+  
+</td>
+<td>
+  
+#### [Uncivilized Primitives](https://github.com/osama-raddad/Uncivilized)
+A robust Kotlin library revolutionizing primitive data type handling with standardized validation.
+  
+</td>
+</tr>
+<tr>
+<td>
+  
+#### [FireCrasher](https://github.com/osama-raddad/FireCrasher)
+An innovative Android library enabling graceful recovery from uncaught exceptions.
+  
+</td>
+<td>
+  
+#### More Projects
+Explore my [full portfolio](https://github.com/osama-raddad?tab=repositories) of open-source contributions.
+  
+</td>
+</tr>
+</table>
 
-- 📫 How to reach me **osama.s.raddad@gmail.com**
+## 💡 Core Expertise
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/osamaraddad/](https://www.linkedin.com/in/osamaraddad/)
+- **Android Development**: Advanced expertise in Kotlin, Java, and the Android SDK
+- **Automotive Systems**: Specialized in Android Automotive OS and vehicle integration
+- **Architecture**: Deep knowledge of Clean Architecture, MVVM, and modern Android patterns
+- **Leadership**: Proven track record in leading high-performance development teams
 
-- ⚡ Fun fact **I am a photographer**
+## 🏆 Technical Proficiency
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/osamaraddad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="osamaraddad" height="30" width="40" /></a>
-<a href="https://medium.com/@osamaraddad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@osamaraddad" height="30" width="40" /></a>
-</p>
+<details>
+<summary>Click to expand full tech stack</summary>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+### Languages & Frameworks
+![Kotlin](https://img.shields.io/badge/Kotlin-Expert-7F52FF?style=flat-square&logo=kotlin)
+![Java](https://img.shields.io/badge/Java-Expert-007396?style=flat-square&logo=java)
+![Android](https://img.shields.io/badge/Android-Expert-3DDC84?style=flat-square&logo=android)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=osama-raddad&show_icons=true&locale=en" alt="osama-raddad" /></p>
+### Tools & Technologies
+![Android Studio](https://img.shields.io/badge/Android_Studio-Expert-3DDC84?style=flat-square&logo=android-studio)
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git)
+![Jenkins](https://img.shields.io/badge/Jenkins-Proficient-D24939?style=flat-square&logo=jenkins)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osama-raddad&" alt="osama-raddad" /></p>
+### Database & Storage
+![Room](https://img.shields.io/badge/Room-Expert-3DDC84?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-Expert-003B57?style=flat-square&logo=sqlite)
+![Realm](https://img.shields.io/badge/Realm-Proficient-39477F?style=flat-square&logo=realm)
+
+</details>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=osama-raddad&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=osama-raddad&theme=github-dark&hide_border=true"/>
+</div>
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn Profile](https://linkedin.com/in/osamaraddad)
+- 📝 [Medium Blog](https://medium.com/@osamaraddad)
+- 📧 Email: osama.s.raddad@gmail.com
+
+---
+
+<div align="center">
+  
+*"Crafting robust Android solutions with a focus on code quality and user experience"*
+
+**⚡ Fun fact:** When not coding, I explore the world through my camera lens as a photography enthusiast!
+
+</div>
